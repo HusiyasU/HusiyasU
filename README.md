@@ -4,14 +4,18 @@
 
 ## 🎯 من أنا
 
-أنا مطور برامج أحبّ التعلّم المستمر وتجربة التقنيات الجديدة في تطوير الويب والتطبيقات.  
-أعمل على مشاريع مختلفة — من البسيطة إلى المتوسطة — بهدف تحسين مهاراتي ومشاركة المعرفة مع الآخرين.
+أنا مطور برامج شغوف بالتكنولوجيا 💻  
+أحبّ التعلم المستمر وتجربة أدوات وتقنيات جديدة في تطوير الويب والتطبيقات.  
+أعمل على مشاريع مختلفة — من البسيطة إلى المتوسطة — بهدف تحسين مهاراتي ومشاركة المعرفة مع الآخرين.  
+
+✨ **هدفي:** بناء تطبيقات عملية واحترافية تجمع بين الأداء والتصميم الجميل.
 
 ---
 
 ## 🧠 التقنيات التي أستخدمها
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -22,14 +26,17 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
-<img width="1920" height="1080" alt="Portfolio" src="https://github.com/user-attachments/assets/04e62e56-f4be-4f3c-9a41-37f3a8d3fbb2" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04e62e56-f4be-4f3c-9a41-37f3a8d3fbb2" alt="Banner" width="100%" />
+</p>
 
 ---
 
 ## 📂 مشاريعي المميزة
 
-| اسم المشروع | التقنية المستخدمة | الوصف |
-|--------------|------------------|--------|
+| 🚀 اسم المشروع | 🧩 التقنية المستخدمة | 📖 الوصف |
+|----------------|------------------|-----------|
 | **sewa-mobil** | HTML / CSS / JS | تطبيق بسيط لخدمة تأجير السيارات |
 | **minpro-snpmb** | Python | برنامج لتسجيل الطلبة في نظام SNPMB |
 | **Iyasite** | Web Stack | موقع شخصي / مدونة بسيطة |
@@ -37,35 +44,61 @@
 | **blog** | PHP | منصة تدوين بسيطة |
 | **Tugas-Vue** | Vue.js | مشروع واجهة أمامية باستخدام Vue |
 
-🔗 يمكنك الاطلاع على باقي المستودعات في ملفي الشخصي على [GitHub](https://github.com/HusiyasU).
+🔗 **تصفح المزيد من مشاريعي على [ملفي الشخصي في GitHub](https://github.com/HusiyasU)**
 
 ---
 
 ## 🛠️ المهارات والأدوات
 
-- التحكم في الإصدارات: Git و GitHub  
-- بيئات التطوير: VS Code، PyCharm، IntelliJ  
-- لغات البرمجة: Python، Java، PHP، C#  
-- خبرة في تصميم واجهات المستخدم (UI/UX)  
-- استخدام أنظمة التشغيل: Ubuntu، Arch Linux  
+### 💡 لغات البرمجة:
+- 🐍 Python  
+- ☕ Java  
+- 💎 PHP  
+- ⚙️ C#  
+
+### 🧰 الأدوات وبيئات العمل:
+- 🖋️ Visual Studio Code  
+- 🧩 PyCharm  
+- 💻 IntelliJ IDEA  
+
+### 🧠 أنظمة التشغيل:
+- 🐧 Ubuntu  
+- 💙 Arch Linux  
+
+### 🎨 مهارات إضافية:
+- تصميم واجهات المستخدم (UI/UX)  
+- التحكم في الإصدارات باستخدام Git و GitHub  
+
+---
+
+## 📊 إحصائيات GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusiyasU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusiyasU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HusiyasU&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96" alt="GitHub Streak"/>
+</p>
 
 ---
 
 ## 📬 للتواصل معي
 
-- 🧑‍💻 GitHub: [HusiyasU](https://github.com/HusiyasU)  
-- 📧 البريد الإلكتروني: *(أضف بريدك هنا إن رغبت)*  
+- 🧑‍💻 **GitHub:** [HusiyasU](https://github.com/HusiyasU)  
+- 💬 **البريد الإلكتروني:** *(أضف بريدك هنا إن رغبت)*  
 
 ---
 
 ## 🤝 دعنا نتعاون
 
 أنا منفتح على:
-- المشاركة في مشاريع مفتوحة المصدر  
-- العمل الحر (Freelance)  
-- تبادل الخبرات والأفكار التقنية  
+- 💡 المشاركة في مشاريع مفتوحة المصدر  
+- 🧑‍💻 العمل الحر (Freelance)  
+- 🔍 تبادل الخبرات والأفكار التقنية  
 
-إذا كنت ترغب بالتعاون أو النقاش حول مشروع، لا تتردد في التواصل معي!
+📫 إذا كنت ترغب بالتعاون أو النقاش حول مشروع، لا تتردد في التواصل معي!
 
 ---
 
