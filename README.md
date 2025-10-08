@@ -7,14 +7,21 @@
 أنا مطور برامج أحبّ التعلّم المستمر وتجربة التقنيات الجديدة في تطوير الويب والتطبيقات.  
 أعمل على مشاريع مختلفة — من البسيطة إلى المتوسطة — بهدف تحسين مهاراتي ومشاركة المعرفة مع الآخرين.
 
-أستخدم العديد من الأدوات والتقنيات في عملي، مثل:
+---
 
-- 🌐 **تطوير الويب:** HTML، CSS، JavaScript  
-- 🐍 **البرمجة الخلفية (Backend):** Python، PHP  
-- ⚙️ **الأُطر والمكتبات:** Vue.js، Laravel  
-- 🧰 **الأدوات:** Git، GitHub، Visual Studio Code  
+## 🧠 التقنيات التي أستخدمها
 
-أهتمّ ببناء مواقع تفاعلية وتجربة المستخدم الجميلة، وأطمح إلى التخصص في تطوير البرمجيات متعددة المنصات.
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+</p>
 
 ---
 
@@ -29,16 +36,17 @@
 | **blog** | PHP | منصة تدوين بسيطة |
 | **Tugas-Vue** | Vue.js | مشروع واجهة أمامية باستخدام Vue |
 
-🔗 يمكنك الاطلاع على باقي المستودعات (Repositories) في ملفي الشخصي على GitHub.
+🔗 يمكنك الاطلاع على باقي المستودعات في ملفي الشخصي على [GitHub](https://github.com/HusiyasU).
 
 ---
 
 ## 🛠️ المهارات والأدوات
 
 - التحكم في الإصدارات: Git و GitHub  
-- بيئات التطوير: VS Code، PyCharm  
-- لغات البرمجة: Python، JavaScript، PHP  
+- بيئات التطوير: VS Code، PyCharm، IntelliJ  
+- لغات البرمجة: Python، Java، PHP، C#  
 - خبرة في تصميم واجهات المستخدم (UI/UX)  
+- استخدام أنظمة التشغيل: Ubuntu، Arch Linux  
 
 ---
 
@@ -46,7 +54,6 @@
 
 - 🧑‍💻 GitHub: [HusiyasU](https://github.com/HusiyasU)  
 - 📧 البريد الإلكتروني: *(أضف بريدك هنا إن رغبت)*  
-- 🔗 وسائل التواصل الاجتماعي: *(اختياري)*  
 
 ---
 
