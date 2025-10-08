@@ -22,10 +22,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7dc07e4a-1658-407e-9a09-0ab175a58ff7" alt="Evangelion Scene" width="700"/>
-</p>
+<img width="1920" height="1080" alt="Portfolio" src="https://github.com/user-attachments/assets/04e62e56-f4be-4f3c-9a41-37f3a8d3fbb2" />
 
 ---
 
