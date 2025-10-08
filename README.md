@@ -33,18 +33,16 @@
 
 ---
 
-## 📂 مشاريعي المميزة
+## 📊 إحصائيات GitHub
 
-| 🚀 اسم المشروع | 🧩 التقنية المستخدمة | 📖 الوصف |
-|----------------|------------------|-----------|
-| **sewa-mobil** | HTML / CSS / JS | تطبيق بسيط لخدمة تأجير السيارات |
-| **minpro-snpmb** | Python | برنامج لتسجيل الطلبة في نظام SNPMB |
-| **Iyasite** | Web Stack | موقع شخصي / مدونة بسيطة |
-| **pertama_belajar** | HTML | أول مشروع في تعلم تطوير الويب |
-| **blog** | PHP | منصة تدوين بسيطة |
-| **Tugas-Vue** | Vue.js | مشروع واجهة أمامية باستخدام Vue |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HusiyasU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusiyasU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="160"/>
+</p>
 
-🔗 **تصفح المزيد من مشاريعي على [ملفي الشخصي في GitHub](https://github.com/HusiyasU)**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HusiyasU&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -71,16 +69,18 @@
 
 ---
 
-## 📊 إحصائيات GitHub
+## 📂 مشاريعي المميزة
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HusiyasU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusiyasU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="160"/>
-</p>
+| 🚀 اسم المشروع | 🧩 التقنية المستخدمة | 📖 الوصف |
+|----------------|------------------|-----------|
+| **sewa-mobil** | HTML / CSS / JS | تطبيق بسيط لخدمة تأجير السيارات |
+| **minpro-snpmb** | Python | برنامج لتسجيل الطلبة في نظام SNPMB |
+| **Iyasite** | Web Stack | موقع شخصي / مدونة بسيطة |
+| **pertama_belajar** | HTML | أول مشروع في تعلم تطوير الويب |
+| **blog** | PHP | منصة تدوين بسيطة |
+| **Tugas-Vue** | Vue.js | مشروع واجهة أمامية باستخدام Vue |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HusiyasU&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E96" alt="GitHub Streak"/>
-</p>
+🔗 **تصفح المزيد من مشاريعي على [ملفي الشخصي في GitHub](https://github.com/HusiyasU)**
 
 ---
 
